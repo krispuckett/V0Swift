@@ -2,6 +2,7 @@
 SwiftUI Tips based on Vercel's React write up for iOS
 [v0-insights-swiftui-translation-VERIFIED.md](https://github.com/user-attachments/files/23752674/v0-insights-swiftui-translation-VERIFIED.md)
 # Translating v0 iOS App Insights to SwiftUI for iOS 26
+# based on the incredible article from V0 team - https://vercel.com/blog/how-we-built-the-v0-ios-app
 
 ## Summary
 
